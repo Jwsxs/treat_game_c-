@@ -11,7 +11,7 @@ import the source code, then
 ```
 dotnet build
 ```
-or, if you're playing again (*thanks*)
+or, if you're playing again (*thanks*, i guess)
 ```
 dotnet run
 ```
