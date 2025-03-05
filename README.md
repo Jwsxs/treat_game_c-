@@ -12,4 +12,4 @@ import the source code, then
 > dotnet build
 > dotnet run
 ```
-or, if you're playing again (*thanks*, i guess), just the second one
+or, if you're playing again (thanks, *i guess*), just the second one
