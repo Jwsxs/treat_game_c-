@@ -1,0 +1,14 @@
+C:\Users\Felipe\code_projs\c#\game\bin\Debug\net9.0\game.exe
+C:\Users\Felipe\code_projs\c#\game\bin\Debug\net9.0\game.deps.json
+C:\Users\Felipe\code_projs\c#\game\bin\Debug\net9.0\game.runtimeconfig.json
+C:\Users\Felipe\code_projs\c#\game\bin\Debug\net9.0\game.dll
+C:\Users\Felipe\code_projs\c#\game\bin\Debug\net9.0\game.pdb
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\game.AssemblyInfoInputs.cache
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\game.AssemblyInfo.cs
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\game.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\game.dll
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\refint\game.dll
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\game.pdb
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\game.genruntimeconfig.cache
+C:\Users\Felipe\code_projs\c#\game\obj\Debug\net9.0\ref\game.dll
