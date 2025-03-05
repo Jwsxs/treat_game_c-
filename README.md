@@ -9,9 +9,7 @@ there is **NO ENDING** 🔥🔥
 ## how to play?
 import the source code, then
 ```
-dotnet build
+> dotnet build
+> dotnet run
 ```
-or, if you're playing again (*thanks*, i guess)
-```
-dotnet run
-```
+or, if you're playing again (*thanks*, i guess), just the second one
